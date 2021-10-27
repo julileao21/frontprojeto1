@@ -1,0 +1,33 @@
+
+    {
+        "defaultCommandTimeout": 10000, 
+        "viewportWidth": 1440,
+        "viewportHeight": 930,
+        
+            "blockHosts": 
+            [
+                    "*google-analytics.com*",
+                    "*ssl.google-analytics.com*",
+                    "*googletagmanager.com*",
+                    "*app.securiti.ai*",
+                    "*cdn-prod.securiti.ai*",
+                    "*securepubads.g.doubleclick.net*",
+                    "*googleadservices.com*",
+                    "*clarity.ms*",
+                    "*targeting.voxus.tv*",
+                    "*bing.com*",
+                    "*bat.bing.com*",
+                    "*getbliue.io*",
+                    "*youtube*",
+                    "*yahoo.com*",
+                    "www.artfut.com ",
+                    "https://app.securiti.ai/core/v1/utils/geo/location"
+            ]
+            
+    }
+
+
+
+    
+ 
+    
